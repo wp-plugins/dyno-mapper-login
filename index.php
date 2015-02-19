@@ -1,6 +1,6 @@
 <?php
     /**
-     * Plugin Name: Dynomapper login
+     * Plugin Name: DYNO Mapper Login
      * Plugin URI: https://wordpress.org/plugins/dyno-mapper-login/
      * Description: Create simple Login page
      * Version: 1.0

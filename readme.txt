@@ -71,10 +71,16 @@ Yes.
 
 == Changelog ==
 
+= 1.0.1 =
+Plugin information and assets updates
+
 = 1.0 =
 Initial release
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+Plugin information and assets updates
 
 = 1.0 = 
 Initial release

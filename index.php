@@ -3,7 +3,7 @@
      * Plugin Name: DYNO Mapper Login
      * Plugin URI: https://wordpress.org/plugins/dyno-mapper-login/
      * Description: Create simple Login page
-     * Version: 1.0
+     * Version: 1.0.2
      * Author: Dynomapper
      * Author URI: http://dynomapper.com
      */
